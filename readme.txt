@@ -2,4 +2,4 @@
 
 Creating a new branch is quick.
 
-主干master上的修改
+修改后的合并文件
